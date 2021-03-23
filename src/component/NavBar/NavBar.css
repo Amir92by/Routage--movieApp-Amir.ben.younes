@@ -1,0 +1,16 @@
+
+.NavBar{
+    background-color: black!important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 60px;
+}
+
+
+.Active-title{
+    color:#C8041C!important;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.nav-Title{ font-size: 20px; color: goldenrod;}
